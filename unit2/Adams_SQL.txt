@@ -1,4 +1,4 @@
-/*This is a an example text file with SQL code**/
+/*This is a an example text file with SQL code*/
 
 CREATE TABLE test (
 	ID varchar(30),
