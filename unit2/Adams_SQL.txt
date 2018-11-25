@@ -1,0 +1,8 @@
+/*This is a an example text file with SQL code**/
+
+CREATE TABLE test (
+	ID varchar(30),
+	var1 varchar(30),
+ 	var2 int,
+	PRIMARY KEY (ID)		
+);
